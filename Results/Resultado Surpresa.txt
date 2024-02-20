@@ -1,0 +1,57 @@
+{
+    "documents": [
+        {
+            "id": "id__4491",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.5,
+                "neutral": 0,
+                "negative": 0.49
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.99,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 35,
+                    "text": "Não acredito no que acabei de ver! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 35,
+                    "length": 44,
+                    "text": "Isso é absolutamente incrível e inesperado. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0,
+                        "negative": 0.99
+                    },
+                    "offset": 79,
+                    "length": 43,
+                    "text": "Estou chocado e maravilhado ao mesmo tempo.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

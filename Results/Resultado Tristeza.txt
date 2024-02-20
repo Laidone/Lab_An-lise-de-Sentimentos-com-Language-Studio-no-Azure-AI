@@ -1,0 +1,57 @@
+{
+    "documents": [
+        {
+            "id": "id__4265",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.5,
+                "neutral": 0,
+                "negative": 0.5
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.99,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 50,
+                    "text": "Hoje é um daqueles dias em que tudo parece cinza. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 50,
+                    "length": 84,
+                    "text": "Sinto uma tristeza profunda no meu coração e não consigo encontrar alegria em nada. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 134,
+                    "length": 37,
+                    "text": "Espero que amanhã seja um dia melhor.",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

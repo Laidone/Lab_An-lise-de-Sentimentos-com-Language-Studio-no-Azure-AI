@@ -1,0 +1,57 @@
+{
+    "documents": [
+        {
+            "id": "id__4003",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.94,
+                "neutral": 0.05,
+                "negative": 0
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 22,
+                    "text": "Estou tão feliz hoje! ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 22,
+                    "length": 92,
+                    "text": "O sol está brilhando, os pássaros estão cantando e eu me sinto cheio de energia e gratidão. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.84,
+                        "neutral": 0.16,
+                        "negative": 0
+                    },
+                    "offset": 114,
+                    "length": 34,
+                    "text": "Vou aproveitar este dia ao máximo!",
+                    "targets": [],
+                    "assessments": []
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
