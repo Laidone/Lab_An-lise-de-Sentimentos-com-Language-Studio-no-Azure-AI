@@ -1,0 +1,1 @@
+# Lab_An-lise-de-Sentimentos-com-Language-Studio-no-Azure-AI
